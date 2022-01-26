@@ -8,7 +8,7 @@
    *Saatler geçtikçe yollara daha mahzun bir ıssızlık çöküyordu.* (Reşat Nuri Güntekin)
 
 2. Bazı kısaltmaların sonuna konur: *Alb.* (albay), *Dr.* (doktor), *Yrd. Doç.* (yardımcı doçent), *Prof.* (profesör), *Cad.* (cadde), *Sok.* (sokak), *s.* (sayfa), *sf.* (sıfat), *vb.* (ve başkası, ve benzeri, ve benzerleri, ve bunun gibi), *Alm.* (Almanca), *Ar.* (Arapça), *İng.* (İngilizce) vb.
-3. Sayılardan sonra sıra bildimrek için konur: *3.* (üçüncü), *15.* (on beşinci); *II. Mehmet, XIV. Louis, XV. yüzyıl; 2. Cadde, 20. Sokak, 4. Levent* vb.
+3. Sayılardan sonra sıra bildirmek için konur: *3.* (üçüncü), *15.* (on beşinci); *II. Mehmet, XIV. Louis, XV. yüzyıl; 2. Cadde, 20. Sokak, 4. Levent* vb.
 4. Arka arkaya sıralandıkları için virgülle veya çizgiyle ayrılan rakamlardan yalnızca sonuncu rakamdan sonra nokta konur: *3, 4 ve 7. maddeler; XII – XIV. yüzyıllar arasında* vb.
 5. Bir yazının maddelerini gösteren rakam veya harflerden sonra konur:
 
