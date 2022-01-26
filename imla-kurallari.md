@@ -8,7 +8,7 @@
 3. Sayılardan sonra sıra bildimrek için konur.
 4. Arka arkaya sıralandıkları için virgülle veya çizgiyle ayrılan rakamlardan yalnızca sonuncu rakamdan sonra nokta konur.
 5. Bir yazının maddelerini gösteren rakam veya harflerden sonra konur.
-6. Tarihlerin yazılışında gün, ay ve yılı gösteren sayıları birbirinden ayırmak için konur
+6. Tarihlerin yazılışında gün, ay ve yılı gösteren sayıları birbirinden ayırmak için konur.
 
    **UYARI:** Tarihlerde ay adları yazıyla da yazılabilir. Bu durumda ay adlarından önce ve sonra nokta kullanılmaz.
 
