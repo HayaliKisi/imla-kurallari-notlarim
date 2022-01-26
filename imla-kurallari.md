@@ -32,3 +32,34 @@
 9.  Dört ve dörtten çok rakamlı sayılar sondan sayılmak üzere üçlü gruplara ayrılarak yazılır ve araya nokta konur: *1.000, 326.197, 49.750.812* vb.
 10. Genel ağ adreslerinde kullanılır: *http://tdk.gov.tr*
 11. Matematikte çarpma işareti yerine kullanılır: *4.5=20, 12.6=72* vb.
+
+## Virgül (`,`)
+
+1. Birbiri ardınca sıralanan eş görevli kelime ve kelime gruplarının arasına konur.
+2. Sıralı cümleleri birbirinden ayırmak için konur.
+3. Uzun cümlelerde yüklemden uzak düşmüş olan özneyi belirtmek için konur.
+4. Cümle içinde ara sözleri veya ara cümleleri ayırmak için ara sözlerin veya ara cümlelerin başına ve sonuna konur.
+5. Anlama güç kazandırmak için tekrarlanan kelimeler arasına konur.
+6. Tırnak içinde olmayan alıntı cümlelerinden sonra konur.
+7. Konuşma çizgisinden sonraki alıntı cümlesinin bitimine konur.
+8. Edebî eserlerde konuşma bölümünden önceki ifadenin sonuna konur.
+9. Kendisinden sonraki cümleye bağlı olarak ret, kabul ve teşvik bildiren hayır, yok, evet, peki, pekâlâ, tamam, olur, hayhay, başüstüne, öyle, haydi, elbette gibi kelimelerden sonra konur.
+10. Bir kelimenin kendisinden sonra gelen kelime veya kelime gruplarıyla yapı ve anlam bakımından bağlantısı olmadığını göstermek ve anlam karışıklığını önlemek için kullanılır.
+11. Hitap için kullanılan kelimelerden sonra konur.
+12. Sayıların yazılışında kesirleri ayırmak için kullanılır.
+13. Metin içinde art arda gelen zarf-fiil eki almış kelimelerden sonra konur.
+
+    **UYARI:** Metin içinde zarf-fiil eki almış kelimelerden sonra virgül konmaz.
+
+14. Özne olarak kullanıldıklarında bu, şu, o zamirlerinden sonra konur.
+15. Kitap, dergi vb.nin künyelerinde yazar, eser, basımevi vb. maddelerden sonra konur.
+
+    **UYARI:** Metin içinde ve, veya, yahut, ya … ya bağlaçlarından önce de sonra da virgül konmaz.
+
+    **UYARI:** Tekrarlı bağlaçlardan önce ve sonra virgül konmaz.
+
+    **UYARI:** Cümlede pekiştirme ve bağlama görevinde kullanılan da / de bağlacından sonra virgül konmaz.
+
+    **UYARI:** Metin içinde -ınca / -ince anlamıyla zarf-fiil görevinde kullanılan mı / mi ekinden sonra virgül konmaz.
+
+    **UYARI:** Şart ekinden sonra virgül konmaz.
